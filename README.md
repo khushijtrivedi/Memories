@@ -48,11 +48,6 @@ API Endpoints
 
   4) DELETE /posts/:id: Delete a post
 
-Clone the repository:
-
-git clone https://github.com/yourusername/memories.git
-cd memories
-
 Install dependencies:
 
 Backend:
